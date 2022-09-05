@@ -1,0 +1,5 @@
+class sample {
+Public static void main {
+Int x=20;
+System.out.printIn(x);
+}}
