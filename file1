@@ -1,5 +1,6 @@
 class sample {
 Public static void main {
 Int x=20;
+#adding 
 System.out.printIn(x);
-}}
+}
