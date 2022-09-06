@@ -1,10 +1,9 @@
-dev1...rtp.java...line (1,4,6)
+dev1...rtp.java...line (1,3,5)
 
-class demo # 
+class demo # from dev1 
 {
-	void cool()
+	void cool() from dev1
 {
-	class tester extends demo 
 	system.out.printin("Hello from devi1")
 }
 }
