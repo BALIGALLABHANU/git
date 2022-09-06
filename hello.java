@@ -1,5 +1,5 @@
 class hello()
 {
-         main()
+         public static voidmain()
               print("hello world")
  }
